@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+
+About:
+- Working as ML Engineer , loves solving engineering problems.
+- Designed and built secure, scalable & maintainable ML/MLops frameworks for training , retraining, serving, monitoring using open source tools.
+ 
+🌱 Hobby-  Solving github issues.
+    
+🔭 Area of interest
+    - Computational Astrophysics
 
 <!--
 **tpanthera/tpanthera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
