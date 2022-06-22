@@ -4,7 +4,7 @@ About:
 - Working as ML Engineer , loves creating & solving engineering problems.
 - Designed and built secure, scalable & maintainable ML/MLops frameworks for training , retraining, serving, monitoring using open source tools.
  
-🌱 Hobby-  Solving github issues.
+🌱 Recent Hobby-  Solving github issues.(Jun 22)
     
 🔭 Area of interest
     - Computational Astrophysics
