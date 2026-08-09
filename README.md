@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 About:
-- Working as ML Engineer , loves creating & solving engineering problems.
+- Working as AI/ML Engineer , loves creating & solving engineering problems.
 - Designed and built secure, scalable & maintainable ML/MLops frameworks for training , retraining, serving, monitoring using open source tools.
  
 🌱 Recent Hobby-  Solving github issues.(Jun 22)
