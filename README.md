@@ -8,8 +8,6 @@ About:
 🔭 Area of interest
     - Computational Astrophysics
 
-![Profile views](https://komarev.com/ghpvc/?username=tpanthera&label=Profile%20views&color=brightgreen&style=flat)
-
 <!--
 **tpanthera/tpanthera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile views](https://komarev.com/ghpvc/?username=tpanthera&label=Profile%20views&color=brightgreen&style=flat)
