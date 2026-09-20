@@ -4,10 +4,11 @@ About:
 - Working as AI/ML Engineer , loves creating & solving engineering problems.
 - Designed and built secure, scalable & maintainable ML/MLops frameworks for training , retraining, serving, monitoring using open source tools.
  
-🌱 Recent Hobby-  Solving github issues.(Jun 22)
     
 🔭 Area of interest
     - Computational Astrophysics
+
+![Profile views](https://komarev.com/ghpvc/?username=tpanthera&label=Profile%20views&color=brightgreen&style=flat)
 
 <!--
 **tpanthera/tpanthera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
